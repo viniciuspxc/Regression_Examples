@@ -12,5 +12,4 @@ Referente ao projeto proposto pela aula 15.Linear Regression
 Referente ao projeto proposto pela aula 17.Logistic Regression
  
 # Nota: 
-Os projetos possuem saídas pré-definidas usadas para comparação.
-As saídas dos códigos feitos podem variar devido a atualizações da ferramenta "scikit-learn" e uso de uma plataforma notebook diferente(Google Colab).
+As saídas dos códigos feitos podem variar em relação ao exemplos das aulas devido a atualizações da ferramenta "scikit-learn" e uso de uma plataforma notebook diferente(Google Colab).
